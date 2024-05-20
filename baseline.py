@@ -5,6 +5,7 @@ from gensim.downloader import load
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.metrics import pairwise_distances_argmin_min
+from collections import defaultdict
 
 
 def encode_words(word_list, model_type='glove'):
@@ -112,3 +113,25 @@ def visualize_clusters(embeddings, word_clusters, n_clusters=3):
     plt.legend()
     plt.grid(True)
     plt.show()
+
+def group_clusters(clusters):
+    grouped_clusters = defaultdict(list)
+    for k, v in clusters.items():
+        print(k, v)
+        grouped_clusters[v].append(k)
+    return list(grouped_clusters.values())
+
+
+def compute_iou(c1, c2):
+    assert (len(c1) != 0 and len(c2) != 0)
+    return len(set(c1) & set(c2)) / len(set(c1) | set(c2))
+
+def evaluate_clusters_iou(pred_clusters, true_clusters): #input as sets
+    total_iou = []
+    for tc in true_clusters:
+        ious = [compute_iou(tc, pc) for pc in pred_clusters]
+        total_iou.append(max(ious))
+    return sum(total_iou) / len(total_iou)
+            
+
+
