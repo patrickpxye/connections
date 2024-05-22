@@ -4,3 +4,4 @@ matplotlib
 gensim
 scikit-learn
 scipy==1.12.0
+together
