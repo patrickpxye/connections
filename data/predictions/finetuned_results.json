@@ -1,0 +1,206 @@
+[
+  [
+    ["DITTO", "LIKEWISE", "SAME", "SAME"],
+    ["LOOK", "SIGHT", "TOUCH", "VISION"],
+    ["DRESS", "HARVEST", "MANNER", "STYLE"],
+    ["BLUE", "NEW", "SECOND", "TASTE"]
+  ],
+  [
+    ["BUMP", "FUZZ", "HAIL", "KNOCK"],
+    ["EXTREME", "FIERCE", "INTENSE", "STATIC"],
+    ["BLOODY", "DEEP", "NOISE", "PROUD"],
+    ["BUTT", "RAM", "SNOW", "VIRGIN"]
+  ],
+  [
+    ["BALL", "BUMPER", "FLIPPER", "TRACK"],
+    ["ICE", "MIST", "NETHER", "SHADOW"],
+    ["CLOUD", "FIN", "FOG", "TAIL"],
+    ["HAZE", "IRE", "PLUNGER", "TRAIL"]
+  ],
+  [
+    ["DIAL", "DINKY", "PINKY", "SLIGHT"],
+    ["APPENDIX", "BUZZ", "CALL", "CHAPTER"],
+    ["INDEX", "ITCHY", "JERRY", "LITTLE"],
+    ["MINUTE", "PREFACE", "RING", "SPEEDY"]
+  ],
+  [
+    ["BASH", "PARTY", "SHINDIG", "SUNDAY"],
+    ["BLOWOUT", "BUNNY", "CRICKET", "ISLAND"],
+    ["COUNTER", "EGG", "MIXER", "RANGE"],
+    ["PUPPET", "SINK", "WHALE", "WOODCARVER"]
+  ],
+  [
+    ["BILL", "INVOICE", "RECEIPT", "STATEMENT"],
+    ["BROTH", "GRILL", "MARINARA", "PROBE"],
+    ["AIOLI", "EXAMINE", "MERCHANDISE", "QUESTION"],
+    ["ANCESTRY", "BARBECUE", "CATTLE", "RANCH"]
+  ],
+  [
+    ["ACUTE", "BOW", "GAIN", "SCARF"],
+    ["BERMUDA", "BOLO", "ERA", "TIDE"],
+    ["RIGHT", "STERN", "STARBOARD", "PORT"],
+    ["ALL", "LOVE", "ASCOT", "TIE"]
+  ],
+  [
+    ["BOND", "COLLAR", "CUFF", "TIE"],
+    ["BOOKMARK", "BOND", "LINK", "TAB"],
+    ["DOZEN", "HISTORY", "JOKE", "LAUNDRY"],
+    [" Butler", "DOZEN", "MARTINI", "WINDOW"]
+  ],
+  [
+    ["KINK", "LINE", "RIVET", "SOLID"],
+    ["ANIMAL", "BUTTON", "DOOR", "WINDOW"],
+    ["FILE", "HISTORY", "POINT", "VIEW"],
+    ["Fly", "PLANE", "POCKET", "SUPREME"]
+  ],
+  [
+    ["BUSINESS", "COAL", "STORE", "STICKS"],
+    ["BANK", "CARROT", "GALL", "SAVE"],
+    ["GIRL", "GUTS", "PAGES", "STASH"],
+    ["BONE", "NERVE", "SNOW", "STONES"]
+  ],
+  [
+    ["AURA", "MEADOW", "PLAIN", "SAVANNA"],
+    ["ACT", "BUCK", "MEASURE", "RESOLUTION"],
+    ["DIRECT", "FRANK", "OPEN", "STRAIGHT"],
+    ["BILL", "DOGE", "HODA", "PRAIRIE"]
+  ],
+  [
+    ["BOYS", "CARD", "CUPID", "SANTA"],
+    ["ACTOR", "DANCER", "SINGER", "STAND-UP"],
+    ["CHOCOLATE", "ROSE", "TASTE", "VIXEN"],
+    ["COMET", "DASHER", "HEART", "LIEUTENANT"]
+  ],
+  [
+    ["COFFER", "CHEST", "SAFE", "VAULT"],
+    ["AGE", "ERA", "JUMP", "TIME"],
+    ["DAY", "FLOW", "HOP", "LEAP"],
+    ["REED", "SPRING", "TANG", "DRIB"]
+  ],
+  [
+    ["BEST", "PICK", "SPOT", "TOP"],
+    ["BUBBLE", "DROP", "SPLASH", "SPONGE"],
+    ["BIRD", "BRICK", "MUD", "RUBY"],
+    ["CHERRY", "CREAM", "DROP", "ROSE"]
+  ],
+  [
+    ["BOUILLON", "BOND", "PLATTER", "STOCK"],
+    ["CD", "DIE", "ICE", "LP"],
+    ["HERRING", "OPTION", "SOUP", "WAX"],
+    ["FUNNY", "LP", "SUGAR", "WISH"]
+  ],
+  [
+    ["CANYON", "CHEEK", "COWL", "GORGE"],
+    ["CLARK", "CRAVEN", "RAVINE", "SCARF"],
+    ["APPLE", "BASHFUL", "GULP", "PASS"],
+    ["CHEN", "GULCH", "MIRROR", "WOLF"]
+  ],
+  [
+    ["BABY", "BOARDWALK", "GO", "SEA"],
+    ["COMMON", "FUTURE", "ICE CUBE", "MIDNIGHT"],
+    ["CHANCE", "JAIL", "POWDER", "WONDER"],
+    ["SIN", "BROTHER", "MET", "ROYAL"]
+  ],
+  [
+    ["DIVISION", "EDGE", "RAT", "SNITCH"],
+    ["BING", "DING", "PING", "SQUEAL"],
+    ["CAMP", "CHIME", "SURFACE", "WING"],
+    ["FACTION", "RING", "SING", "WORD"]
+  ],
+  [
+    ["BORE", "DRAFT", "PUFF", "SNOOZE"],
+    ["BOXER", "KICK", "PANT", "YAWN"],
+    ["BREZE", "DRAG", "GUST", "TANG"],
+    ["BITE", "GOGGLE", "TONGL", "ZIP"]
+  ],
+  [
+    ["GREEN", "HULU", "MAYO", "NETFLIX"],
+    ["DOWN", "LOW", "RELISH", "SCARLET"],
+    ["BLUE", "MUSTARD", "TARTAR", "PLUM"],
+    ["GLUM", "KETCHUP", "PEACOCK", "PRIME"]
+  ],
+  [
+    ["BRASS", "CHEEK", "COLLAR", "HARNESS"],
+    ["CAROUSEL", "FERRY", "GALL", "HALTER"],
+    ["GLOBE", "LEAD", "MERCURY", "RECORD"],
+    ["BASS", "NERVE", "NICKS", "PLANT"]
+  ],
+  [
+    [" Action", "Go", "Lid", "Stick"],
+    [" Ballpark", "BAT", "BIRD", "POPPY"],
+    [" Beet", "Brick", "CARDINAL", "GOVERNOR"],
+    [" CUP", "OWL", "STIRRER", "WOLF"]
+  ],
+  [
+    ["CUCKOO", "KOOKY", "NEPHEW", "SCROOGE"],
+    ["BIOLOGICAL", "CUSIN", "DAFFY", "WACKY"],
+    ["ALARM", "DONALD", "GRANDFATHER", "QUIRKY"],
+    ["DAISY", "DEWEY", "MOTHER", "ZANY"]
+  ],
+  [
+    ["CYCLONE", "CYCLE", "PHASE", "ROUND"],
+    ["ORION", "PEGASUS", "SOLITAIRE", "MONOLOGUE"],
+    ["CYGNUS", "GEMINI", "GALAXY", "STAGE"],
+    ["SNAIL", "SUNFLOWER", "CYCLOPS", "UNICYCLE"]
+  ],
+  [
+    ["BAR", "LOUNGE", "SAMPLE", "DISCO"],
+    ["BAKE", "CLEARANCE", "DROP", "LOSE"],
+    ["DITCH", "GARAGE", "LEAGUE", "YARD"],
+    ["FOOT", "CLUB", "FATHOM", "SHED"]
+  ],
+  [
+    ["CHEDDAR", "CHUNKY", "CRUNCH", "STACKS"],
+    ["DOUGH", "GUN", "MOUNDS", "PAPER"],
+    ["KANGAROO", "KOALA", "MOLE RAT", "WOMBAT"],
+    ["EYE", "GROUP", "TRUTH", "WALLABY"]
+  ],
+  [
+    ["BOUQUET", "COVER", "CRUST", "FROST"],
+    ["BOOK", "CAKE", "COAT", "TRAIN"],
+    ["GRAM", "RING", "SPARROW", "TUBE"],
+    ["BLACK", "IN", "MA", "VEIL"]
+  ],
+  [
+    ["ARROW", "BOW", "DOG", "SHELL"],
+    ["DOWN", "KNEEL", "STAND", "TAKEDown"],
+    ["CLCK", "FINGER", "HINT", "SCALES"],
+    ["FUR", "MAIL", "MAPS", "SALUTE"]
+  ],
+  [
+    ["BINGO", "CORRECT", "DING", "YES"],
+    ["CRACKER", "FLAP", "NACBO", "POPPER"],
+    ["CHIP", "FRY", "NICK", "SCRATCH"],
+    ["APPLE", "BINGO", "LUMBER", "RIGHT"]
+  ],
+  [
+    ["BUNK", "CRASH", "PASSPORT", "PILOT"],
+    ["CANOPY", "CIVIC", "SONIC", "TRUNDLE"],
+    ["ACCOORD", "CONDUIT", "CONNECTION", "LINK"],
+    ["JONAS", "MARIO", "MARX", "WARNER"]
+  ],
+  [
+    ["BELT", "DECK", "GIN", "SPIT"],
+    ["ANCHOR", "ARROW", "CLOCK", "DRAGON"],
+    ["BROOCH", "BUCKLE", "CLASP", "PENDANT"],
+    ["BOW", "HEART", "ROSE", "WAR"]
+  ],
+  [
+    ["CHEST", "CHAIR", "DIRECTOR", "HEAD"],
+    ["BROWN", "GREEN", "HOMES", "UNCHAINED"],
+    ["CHEF", "CHIEF", "HAZEL", "FICTION"],
+    ["DOGS", "FIELD", "GROUNDS", "PEA"]
+  ],
+  [
+    ["CHEERS", "JAYS", "REGARDS", "THANKS"],
+    ["BEST", "LUNGES", "NATS", "SQUATS"],
+    ["BANKS", "DIPS", "PLANKS", "TAYLOR"],
+    ["CARDS", "MOSS", "WARREN", "YANKS"]
+  ],
+  [
+    ["DARN", "ERM", "RATCHED", "SEAM"],
+    ["FOLLOW", "LIKE", "SEW", "SHARE"],
+    ["ER", "HEM", "SCRUBS", "SUBSCRIBE"],
+    ["HOUSE", "UH", "UM", "WELL"]
+  ]
+]

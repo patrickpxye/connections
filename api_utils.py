@@ -4,6 +4,35 @@ from together import Together, AsyncTogether
 import random
 
 
+async def run_inference_prompt(prompts, model):
+    async_client = AsyncTogether(api_key=os.environ.get("TOGETHER_API_KEY"))
+
+    # tasks = [
+    #     async_client.chat.completions.create(
+    #         model="databricks/dbrx-instruct",
+    #         messages=[{"role": "user", "content": message}],
+    #     )
+    #     for message in prompts
+    # ]
+
+    distillations = []
+
+    for message in prompts:
+        response = await async_client.chat.completions.create(
+            model=model,
+            messages=[{"role": "user", "content": message}],
+        )
+        output = response.choices[0].message.content
+        print(output)
+        # if any(str.isdigit(i) for i in response.choices[0].message.content):
+        #     print("restarting, digit")
+        #     print(output)
+        #     continue
+        distillations += [output]
+
+    return distillations
+
+
 async def run_inference(test_data, prompt, model):
     async_client = AsyncTogether(api_key=os.environ.get("TOGETHER_API_KEY"))
 

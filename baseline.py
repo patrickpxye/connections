@@ -141,11 +141,15 @@ def transform_test_data(data, isLower):
     for i, item in enumerate(data):
         entries = []
         solutions = []
+        descriptions = []
         for answer in item["answers"]:
             entry = [word.lower() if isLower else word for word in answer["words"]]
             entries += entry
             solutions.append(entry)
-        result += [{"entries": entries, "solutions": solutions}]
+            descriptions.append(answer["description"])
+        result += [
+            {"entries": entries, "solutions": solutions, "descriptions": descriptions}
+        ]
     return result
 
 
@@ -169,7 +173,8 @@ def evaluate_clusters_iou(pred_clusters, true_clusters):  # input as sets
         total_iou.append(max(ious))
     return sum(total_iou) / len(total_iou)
 
-#version of the earlier function that returns the list of ious, useful for difficulty analysis
+
+# version of the earlier function that returns the list of ious, useful for difficulty analysis
 def enumerate_clusters_iou(pred_clusters, true_clusters):
     total_iou = []
     for pc in pred_clusters:
@@ -177,18 +182,20 @@ def enumerate_clusters_iou(pred_clusters, true_clusters):
         total_iou.append(max(ious))
     return total_iou
 
+
 def evaluate_clusters_entropy(pred_clusters, true_clusters):
     total_entropy = 0
     for pc in pred_clusters:
         cluster_entropy = 0
-        #formula: -sum(p*log(p))
-        #p = probability of a data point being classified as true label in cluster pc.
+        # formula: -sum(p*log(p))
+        # p = probability of a data point being classified as true label in cluster pc.
         for tc in true_clusters:
             p = len(set(pc) & set(tc)) / len(pc)
             if p != 0:
                 cluster_entropy += -p * np.log(p)
         total_entropy += cluster_entropy
     return total_entropy / len(pred_clusters)
+
 
 def count_perfert_matches(pred_clusters, true_clusters):
     perfect_match = 0
