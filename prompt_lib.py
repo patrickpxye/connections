@@ -53,7 +53,7 @@ The student's answer is:
 The actual answer should be:
 {answer}
 
-Observe if the student's grouping of the words are correct (ignore formatting issues). Your job is to talk to the student, criticize the student's current performance, and help the student improve his answer, without referring to any specific word, and you cannot give the answer directly or indirectly in any form. You can only offer general advice on how to improve the student's answer.
+Observe if the student's grouping of the words are correct (ignore formatting issues). Your job is to talk to the student, criticize the student's current performance, and help the student improve his answer, and you cannot give the answer directly or indirectly in any form.
 
 Format your response should address the student as if talking to him directly, starting with "You should notice these details:"
 

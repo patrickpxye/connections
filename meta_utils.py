@@ -37,7 +37,7 @@ async def run_meta_inference(prompt, instructions, games, responses, model):
 async def run_agent_inference(prompt, instructions, games, responses, meta_instructions, model):
 
     async_client = AsyncTogether(api_key=os.environ.get("TOGETHER_API_KEY"))
-
+    #prompt.format(instructions=instructions, game=(", ".join(random.sample(games[i]["entries"], len(games[i]["entries"])))).upper(), response=unflatten_response(responses[i]), meta_instructions = meta_instructions[i])
     prompts = [
         prompt.format(meta_instructions = meta_instructions[i])
         for i in range(len(games))
