@@ -1,0 +1,665 @@
+[
+    {
+        "answers": [
+            {
+                "description": "SENSES",
+                "words": [
+                    "SIGHT",
+                    "SMELL",
+                    "TASTE",
+                    "TOUCH"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "APPEARANCE",
+                "words": [
+                    "DRESS",
+                    "LOOK",
+                    "MANNER",
+                    "STYLE"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "\u201cAGREE!\u201d",
+                "words": [
+                    "DITTO",
+                    "LIKEWISE",
+                    "SAME",
+                    "SECOND"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "___ MOON",
+                "words": [
+                    "BLUE",
+                    "HARVEST",
+                    "NEW",
+                    "SAILOR"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "139",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "PASSIONATE, AS A FEELING",
+                "words": [
+                    "DEEP",
+                    "EXTREME",
+                    "FIERCE",
+                    "INTENSE"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "BANG INTO",
+                "words": [
+                    "BUMP",
+                    "BUTT",
+                    "KNOCK",
+                    "RAM"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "ANALOG TV INTERFERENCE",
+                "words": [
+                    "FUZZ",
+                    "NOISE",
+                    "SNOW",
+                    "STATIC"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "___ MARY",
+                "words": [
+                    "BLOODY",
+                    "HAIL",
+                    "PROUD",
+                    "VIRGIN"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "322",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "MURKY CONDITION",
+                "words": [
+                    "CLOUD",
+                    "FOG",
+                    "HAZE",
+                    "MIST"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "FOLLOW",
+                "words": [
+                    "SHADOW",
+                    "TAIL",
+                    "TRACK",
+                    "TRAIL"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "PINBALL MACHINE COMPONENTS",
+                "words": [
+                    "BALL",
+                    "BUMPER",
+                    "FLIPPER",
+                    "PLUNGER"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "___LAND COUNTRIES",
+                "words": [
+                    "FIN",
+                    "ICE",
+                    "IRE",
+                    "NETHER"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "184",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "CONTACT VIA PHONE",
+                "words": [
+                    "BUZZ",
+                    "CALL",
+                    "DIAL",
+                    "RING"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "BOOK SECTIONS",
+                "words": [
+                    "APPENDIX",
+                    "CHAPTER",
+                    "INDEX",
+                    "PREFACE"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "WEE",
+                "words": [
+                    "DINKY",
+                    "LITTLE",
+                    "MINUTE",
+                    "SLIGHT"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "CARTOON MICE",
+                "words": [
+                    "ITCHY",
+                    "JERRY",
+                    "PINKY",
+                    "SPEEDY"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "192",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "SOCIAL GATHERING",
+                "words": [
+                    "BASH",
+                    "BLOWOUT",
+                    "PARTY",
+                    "SHINDIG"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "FOUND IN A KITCHEN",
+                "words": [
+                    "COUNTER",
+                    "MIXER",
+                    "RANGE",
+                    "SINK"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "\u201cPINOCCHIO\u201d FIGURES",
+                "words": [
+                    "CRICKET",
+                    "PUPPET",
+                    "WHALE",
+                    "WOODCARVER"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "EASTER ___",
+                "words": [
+                    "BUNNY",
+                    "EGG",
+                    "ISLAND",
+                    "SUNDAY"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "75",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "DIPPING SAUCES",
+                "words": [
+                    "AIOLI",
+                    "BARBECUE",
+                    "MARINARA",
+                    "RANCH"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "INTERROGATE",
+                "words": [
+                    "EXAMINE",
+                    "GRILL",
+                    "PROBE",
+                    "QUESTION"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "TRANSACTION RECORD",
+                "words": [
+                    "BILL",
+                    "INVOICE",
+                    "RECEIPT",
+                    "STATEMENT"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "WHAT \u201cSTOCK\u201d MIGHT MEAN",
+                "words": [
+                    "ANCESTRY",
+                    "BROTH",
+                    "CATTLE",
+                    "MERCHANDISE"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "324",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "NECKWEAR",
+                "words": [
+                    "ASCOT",
+                    "BOLO",
+                    "SCARF",
+                    "TIE"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "SHIP DIRECTIONS",
+                "words": [
+                    "BOW",
+                    "PORT",
+                    "STARBOARD",
+                    "STERN"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "DETERGENTS",
+                "words": [
+                    "ALL",
+                    "ERA",
+                    "GAIN",
+                    "TIDE"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "___ TRIANGLE",
+                "words": [
+                    "ACUTE",
+                    "BERMUDA",
+                    "LOVE",
+                    "RIGHT"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "17",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "WEB BROWSER-RELATED",
+                "words": [
+                    "BOOKMARK",
+                    "HISTORY",
+                    "TAB",
+                    "WINDOW"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "SHIRT FEATURES",
+                "words": [
+                    "BUTTON",
+                    "COLLAR",
+                    "CUFF",
+                    "POCKET"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "CONNECTION",
+                "words": [
+                    "BOND",
+                    "LINK",
+                    "RELATION",
+                    "TIE"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "DIRTY ___",
+                "words": [
+                    "DOZEN",
+                    "JOKE",
+                    "LAUNDRY",
+                    "MARTINI"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "100",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "FEATURES ON A PAIR OF JEANS",
+                "words": [
+                    "BUTTON",
+                    "FLY",
+                    "POCKET",
+                    "RIVET"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+                "words": [
+                    "LINE",
+                    "PLANE",
+                    "POINT",
+                    "SOLID"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "WEB BROWSER MENUS",
+                "words": [
+                    "FILE",
+                    "HISTORY",
+                    "VIEW",
+                    "WINDOW"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "MEMBER OF A \u201960S BAND",
+                "words": [
+                    "ANIMAL",
+                    "DOOR",
+                    "KINK",
+                    "SUPREME"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "325",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "RESERVE FOR LATER",
+                "words": [
+                    "BANK",
+                    "SAVE",
+                    "STASH",
+                    "STORE"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "BOLDNESS, FIGURATIVELY",
+                "words": [
+                    "GALL",
+                    "GUTS",
+                    "NERVE",
+                    "STONES"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "USED TO BUILD A SNOWMAN",
+                "words": [
+                    "CARROT",
+                    "COAL",
+                    "SNOW",
+                    "STICKS"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "FUNNY ___",
+                "words": [
+                    "BONE",
+                    "BUSINESS",
+                    "GIRL",
+                    "PAGES"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "189",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "BIT OF LEGISLATION",
+                "words": [
+                    "ACT",
+                    "BILL",
+                    "MEASURE",
+                    "RESOLUTION"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "GRASSLAND",
+                "words": [
+                    "MEADOW",
+                    "PLAIN",
+                    "PRAIRIE",
+                    "SAVANNA"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "FORTHRIGHT",
+                "words": [
+                    "DIRECT",
+                    "FRANK",
+                    "OPEN",
+                    "STRAIGHT"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "CAR COMPANIES MINUS LETTER",
+                "words": [
+                    "AURA",
+                    "BUCK",
+                    "DOGE",
+                    "HODA"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "339",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "PERFORMING ARTISTS",
+                "words": [
+                    "ACTOR",
+                    "DANCER",
+                    "SINGER",
+                    "STAND-UP"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "SANTA\u2019S REINDEER",
+                "words": [
+                    "COMET",
+                    "CUPID",
+                    "DASHER",
+                    "VIXEN"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "SEEN ON VALENTINE\u2019S DAY",
+                "words": [
+                    "CARD",
+                    "CHOCOLATE",
+                    "HEART",
+                    "ROSE"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "\u201cBAD ___\u201d MOVIES",
+                "words": [
+                    "BOYS",
+                    "LIEUTENANT",
+                    "SANTA",
+                    "TASTE"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "72",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    },
+    {
+        "answers": [
+            {
+                "description": "PROPEL INTO THE AIR",
+                "words": [
+                    "HOP",
+                    "JUMP",
+                    "LEAP",
+                    "SPRING"
+                ],
+                "emoji": "\ud83d\udfe8",
+                "color": "#fbd400"
+            },
+            {
+                "description": "PLACE TO STORE VALUABLES",
+                "words": [
+                    "CHEST",
+                    "COFFER",
+                    "SAFE",
+                    "VAULT"
+                ],
+                "emoji": "\ud83d\udfe9",
+                "color": "#69e352"
+            },
+            {
+                "description": "PERIOD",
+                "words": [
+                    "AGE",
+                    "DAY",
+                    "ERA",
+                    "TIME"
+                ],
+                "emoji": "\ud83d\udfe6",
+                "color": "#5492ff"
+            },
+            {
+                "description": "ANIMALS BACKWARD",
+                "words": [
+                    "DRIB",
+                    "FLOW",
+                    "REED",
+                    "TANG"
+                ],
+                "emoji": "\ud83d\udfea",
+                "color": "#df7bea"
+            }
+        ],
+        "id": "263",
+        "isNYT": true,
+        "puzzleMetadata": {}
+    }
+]
