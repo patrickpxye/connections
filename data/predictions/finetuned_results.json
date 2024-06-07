@@ -45,7 +45,7 @@
     ["BOND", "COLLAR", "CUFF", "TIE"],
     ["BOOKMARK", "BOND", "LINK", "TAB"],
     ["DOZEN", "HISTORY", "JOKE", "LAUNDRY"],
-    [" Butler", "DOZEN", "MARTINI", "WINDOW"]
+    ["Butler", "DOZEN", "MARTINI", "WINDOW"]
   ],
   [
     ["KINK", "LINE", "RIVET", "SOLID"],
@@ -126,10 +126,10 @@
     ["BASS", "NERVE", "NICKS", "PLANT"]
   ],
   [
-    [" Action", "Go", "Lid", "Stick"],
-    [" Ballpark", "BAT", "BIRD", "POPPY"],
-    [" Beet", "Brick", "CARDINAL", "GOVERNOR"],
-    [" CUP", "OWL", "STIRRER", "WOLF"]
+    ["Action", "Go", "Lid", "Stick"],
+    ["Ballpark", "BAT", "BIRD", "POPPY"],
+    ["Beet", "Brick", "CARDINAL", "GOVERNOR"],
+    ["CUP", "OWL", "STIRRER", "WOLF"]
   ],
   [
     ["CUCKOO", "KOOKY", "NEPHEW", "SCROOGE"],
